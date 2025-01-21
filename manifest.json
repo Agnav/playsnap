@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Saavn auto downloader",
+    "name": "Play Snap",
     "version": "1.0",
-    "description": "Automaticall download songs as you stream !",
+    "description": "Automatically download songs as you stream !",
     "permissions": [
       "webRequest",
       "webRequestBlocking",
@@ -25,7 +25,7 @@
         "48": "icons/icon48.png",
         "128": "icons/icon128.png"
       },
-      "default_title": "Saavn Auto Downloader"
+      "default_title": "Play Snap"
     },
     "icons": {
       "16": "icons/icon16.png",
