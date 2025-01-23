@@ -2,7 +2,7 @@
 
 # Play Snap
 
-**Play Snap** is a browser extension that automatically downloads songs as you stream them on JioSaavn. The extension listens for specific API calls and downloads the media directly to your system in MP3 format.
+**Play Snap** is a browser extension that automatically downloads songs as you stream them on JioSaavn. The extension listens for specific API calls and downloads the media directly to your system in M4A format.
 
 ## Features
 
